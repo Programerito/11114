@@ -1,0 +1,68 @@
+.register { padding: 400px;
+    
+    
+
+}
+
+.title { 
+    
+    width: 567px;
+    margin: 0 auto;
+    background: rgb(102, 102, 102);
+    color: white;
+
+}
+
+.reto {    
+    
+    background: rgb(102, 102, 102);
+    width: 663px;
+    margin: 50px 610px;
+    color: white;
+
+
+}
+
+.sinopsis {
+    
+    background: rgb(102, 102, 102);
+    width: 500px;
+    margin: 0 auto;
+    color: white;
+}
+
+.ready { 
+    
+    background: rgb(102, 102, 102);
+    width: 500px;
+    margin: 0 auto;
+    color: white;
+}
+
+
+.links {
+
+    background: rgb(255, 133, 153);
+    text-decoration: none;
+    padding: 5px;
+
+}
+
+.navegar {
+   
+    width: 500px;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.Gif {
+
+    width: 720px;
+    margin: 0px 524px;
+
+}
+
+.Colorfont {
+    background-color: rgb(0, 89, 149);
+}
